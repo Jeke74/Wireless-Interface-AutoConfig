@@ -1,0 +1,11 @@
+// AutoConfig Disabled
+
+//@echo Run as admin!
+//netsh wlan set autoconfig enabled=no interface="Wi-Fi"
+//pause
+
+// AutoConfig Enabled
+
+//@echo Run as admin!
+//netsh wlan set autoconfig enabled=yes interface="Wi-Fi"
+//pause
