@@ -7,3 +7,5 @@ Based on this reddit post: https://www.reddit.com/r/summonerschool/comments/4okz
 ![image](https://github.com/user-attachments/assets/4de8b9c7-dae3-48d3-a4d3-95397004ecd2)
 
 Comes with shortcuts!
+
+▫ **NOTE:** If AutoConfig is disabled, you won't be able to connect to another WiFi until you enable it again
