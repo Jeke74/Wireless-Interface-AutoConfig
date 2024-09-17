@@ -1,0 +1,3 @@
+@echo Runs as Admin!
+netsh wlan set autoconfig enabled=yes interface="Wi-Fi"
+pause
